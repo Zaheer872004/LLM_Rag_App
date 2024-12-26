@@ -1,0 +1,34 @@
+# langchain_core
+# python-dotenv
+# streamlit
+# langchain_community
+# langchain-groq
+
+langchain_openai 
+langchain_core
+langchain_community
+langchain-groq
+python-dotenv
+streamlit
+langserve
+fastapi
+uvicorn
+httpx==0.24.0
+sse_starlette
+huggingface_hub
+pypdf
+langchain-text-splitters
+load_dotenv
+bs4
+langchain_huggingface
+huggingface_hub
+chromadb
+# pip install chromadb
+langchain-groq
+pymupdf
+wikipedia
+arxiv
+html2text
+faiss-cpu
+langchainhub
+duckduckgo-search
